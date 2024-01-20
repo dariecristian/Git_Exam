@@ -1,0 +1,11 @@
+# Ignoră toate fișierele cu extensia .exe
+*.exe
+
+# Ignoră toate fișierele cu extensia .dat
+*.dat
+
+# Ignoră toate fișierele cu extensia .jar
+*.jar
+
+# Ignoră întregul dosar Lib
+Lib/
