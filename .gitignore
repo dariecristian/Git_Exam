@@ -9,3 +9,5 @@
 
 # Ignoră întregul dosar Lib
 Lib/
+# Ignoră file-ul git_ignore.txt
+git_ignore.txt
